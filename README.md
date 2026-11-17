@@ -1,0 +1,2 @@
+# Physics-Based-Web-Swinging-Trajectory-Optimization-and-Collision-Avoidance-Simulator
+A 2D side-view web-swinging simulator built in C++17 with WinBGIm (graphics.h). Combining real-time rendering with basic physics, it models pendulum swinging, projectile flight, and collision detection across rectangular buildings. Features include keyboard controls, a heads-up display (HUD), and path-finding to find the fastest safe route.
